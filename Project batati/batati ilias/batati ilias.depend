@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626797446 source:c:\users\ilyass\documents\html\project batati\batati ilias\main.c
+	<stdio.h>
+	<stdlib.h>
+
